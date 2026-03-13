@@ -28,5 +28,17 @@
     "author": "",
     "year": 0,
     "read": false
+  },
+  {
+    "title": "Python Guide",
+    "author": "John Doe",
+    "year": 2020,
+    "read": false
+  },
+  {
+    "title": "Ruby Tips",
+    "author": "Jane Smith",
+    "year": 2019,
+    "read": false
   }
 ]
